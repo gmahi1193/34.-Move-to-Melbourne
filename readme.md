@@ -1,0 +1,1 @@
+This project gives idea about different types of baseline regression models.
